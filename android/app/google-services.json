@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304210471569",
+    "project_id": "productivity-app-5793a",
+    "storage_bucket": "productivity-app-5793a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304210471569:android:fbbd46863b9c9219e82d30",
+        "android_client_info": {
+          "package_name": "com.example.capstone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304210471569-22b255813kqlci9j0u8496b1tdrghfep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMun_4Ax1MiSCiSH0ZnIYNKwc_hdlsRno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304210471569-22b255813kqlci9j0u8496b1tdrghfep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
