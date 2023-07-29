@@ -1,16 +1,17 @@
-# capstone_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Productivty Tracker
+## Features
+Add new tasks  
+Mark tasks as completed  
+Delete tasks  
+View how many tasks were completed each day of the week  
+## Tech stack used:
+Flutter  
+Firestore  
+### Log in/Sign up page:
+Users can log in or sign up using their email id and password. Implemented using Firebase authentication. 
+### Home Page:
+Displays a list of tasks that can be marked as completed. 
+### Add event page:
+A new task can be created and a category can be assigned to it. 
+### Statistics page:
+Shows the number of tasks completed on each day of the week by the user and the days on which the user completed the most and the least number of tasks. Accomplished using stored references
